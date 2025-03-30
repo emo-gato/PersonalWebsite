@@ -22,7 +22,7 @@ const ImageCanvas: FunctionComponent<ImageCanvasType> = ({
           <img
             className="absolute top-[28px] left-[35px] w-[172px] h-[169px]"
             alt=""
-            src
+            src="/placeholder-image.png"
           />
           <img
             className="absolute top-[-48px] left-[-127px] w-[531px] h-[649px] object-cover"
